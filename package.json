@@ -1,6 +1,6 @@
 {
   "name": "@borris123rf/header",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
@@ -39,7 +39,7 @@
     ]
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
-  "main": ".pnp.js",
+  "main": "src/App.tsx",
   "devDependencies": {},
   "repository": {
     "type": "git",
